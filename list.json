@@ -1,0 +1,23 @@
+[
+    {
+        "name": "template-vue-store",
+        "type": "vue",
+        "description": "门店系统vue模板",
+        "url": "",
+        "branch": "master"
+    },
+    {
+        "name": "template-vue-saas",
+        "type": "vue",
+        "description": "saas系统vue模板",
+        "url": "地址",
+        "branch": "master"
+    },
+    {
+        "name": "template-react-store",
+        "type": "react",
+        "description": "门店系统react模板",
+        "url": "地址",
+        "branch": "dev"
+    }
+]
